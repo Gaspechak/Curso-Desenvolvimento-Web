@@ -12,8 +12,12 @@ if (diaAtual == diaAniversario) {
     console.log("Eaew, cadê meu pastel ?")
 }
 
-switch (key) {
-    case value:
+switch (diaAtual) {
+    case 20:
+        console.log()
+        break;
+    case 21:
+        console.log()
         break;
     default:
         break;

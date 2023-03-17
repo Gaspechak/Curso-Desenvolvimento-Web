@@ -1,0 +1,14 @@
+{
+  "name": "aula-4",
+  "version": "1.0.0",
+  "description": "1. Crie uma função que receba dois valores e retorne a soma de ambos;\r 2. Crie uma função que receba dois valores e retorne um dividido pelo outro;\r 3. Crie uma função que receba dois valores e retorne a multiplicação dos dois;\r 4. Crie um algoritimo que coleta Nome Completo, CPF, E-mail, Telefone, Endereço e armazene em um objeto do tipo javascript;\r 5. Crie um algoritimo que colete Nome, Descrição, Marca, Preço e armazene em um objeto javascript;\r 6. Crie o algoritimo que encontre o máximo divisor comum entre dois números;\r 7. Dado um array [2, 3, 1, 4, 5] crie um algoritimo que faça a reoordenação dos elementos resultando em [1, 2, 3, 4, 5]\r 8. Crie um algoritimo que gere a seguinte sequência de números [0, 1, 1, 2, 3, 5, 8, 13, 21, 34] utilizando uma função e um número que determine a quantidade de números que serão gerados no padrão descrito.",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

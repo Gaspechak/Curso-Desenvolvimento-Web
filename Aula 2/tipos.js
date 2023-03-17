@@ -13,11 +13,11 @@ tipoBoolean = 20;
 
 
 //Array
-let items = ["Arroz", "Feijão", "Trigo"]
+let items = ["Arroz", "Feijão", {}]
 
 
 //Função
-let minhaFuncao = function () {
+let minhaFuncao = function (x, y) {
     console.log("Olá mundo !")
 }
 
@@ -32,6 +32,7 @@ const minhaFuncao3 = () => {
 function minhaFuncao4() {
     console.log("Olá mundo !")
 }
+
 
 () => { console.log("Olá mundo !") }
 

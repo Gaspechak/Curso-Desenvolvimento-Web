@@ -31,6 +31,6 @@ while (n < 3) {
 
 var items = ["Arroz", "Feijão", "Trigo"]
 
-for (let item in items) {
-    console.log(item)
+for (let i in items) {
+    console.log(items[i])
 }

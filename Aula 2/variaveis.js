@@ -5,7 +5,8 @@ var tipo1
 let tipo2
 
 //Declaração de variavel com escopo de bloco
-const tipo3 = 0;
+const tipo3 = 0
+
 
 //Porque escopo de bloco ?
 if (true) {
